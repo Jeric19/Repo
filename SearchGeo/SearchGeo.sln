@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchGeo", "SearchGeo\SearchGeo.csproj", "{6DCBB559-6C47-44BF-B4E6-AED7ACB1A159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenStreetMapSearch", "OpenStreetMapSearch\OpenStreetMapSearch.csproj", "{AF356A6A-02FE-4EC0-B43D-9B3A1BD30C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCBB559-6C47-44BF-B4E6-AED7ACB1A159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCBB559-6C47-44BF-B4E6-AED7ACB1A159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCBB559-6C47-44BF-B4E6-AED7ACB1A159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCBB559-6C47-44BF-B4E6-AED7ACB1A159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF356A6A-02FE-4EC0-B43D-9B3A1BD30C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF356A6A-02FE-4EC0-B43D-9B3A1BD30C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF356A6A-02FE-4EC0-B43D-9B3A1BD30C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF356A6A-02FE-4EC0-B43D-9B3A1BD30C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A09966-4252-4495-8F1C-FF4CC7121290}
+	EndGlobalSection
+EndGlobal
