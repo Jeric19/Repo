@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchGeo", "SearchGeo\SearchGeo.csproj", "{6DCBB559-6C47-44BF-B4E6-AED7ACB1A159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenStreetMapSearch", "OpenStreetMapSearch\OpenStreetMapSearch.csproj", "{AF356A6A-02FE-4EC0-B43D-9B3A1BD30C5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreetMapSearch", "OpenStreetMapSearch\StreetMapSearch.csproj", "{AF356A6A-02FE-4EC0-B43D-9B3A1BD30C5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
