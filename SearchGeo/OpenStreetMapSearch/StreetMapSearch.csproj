@@ -46,8 +46,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\OSMSRoot.cs" />
+    <Compile Include="Model\YaSRoot.cs" />
     <Compile Include="OSMSearch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="YaSearch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

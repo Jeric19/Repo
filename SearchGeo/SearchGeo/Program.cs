@@ -12,8 +12,11 @@ namespace SearchGeo
     {
         static void Main(string[] args)
         {
-            OSMSearch my_object = new OSMSearch();
-            OSMSRoot[] obj = my_object.GetJsonObject(new List<string> { "Санкт-Петербург", "Космонавтов", "38" });
+            //OSMSearch my_object = new OSMSearch();
+            //OSMSRoot[] obj = my_object.GetJsonObject(new List<string> { "Санкт-Петербург", "Космонавтов", "38" });
+
+            YaSearch my_object = new YaSearch();
+            List<YaSRoot> obj = my_object.GetJsonObject("Санкт-Петербург Космонавтов 38");
 
         }
     }
